@@ -19,5 +19,6 @@ public class Week2 {
         String name;
         name = "Joe"; // Single quote (') is a 'char', not a String (")
         System.out.println(name);
+        System.out.println(name);
     }
 }
